@@ -25,24 +25,6 @@ The dataset includes team statistics (such as field goal percentage, offensive/d
 - Best performing model: **Random Forest** with 61.04% accuracy.
 - Evaluation methods: Accuracy, Precision, Recall, Confusion Matrix, ROC Curve.
 
-## Getting Started
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/nba-win-prediction.git
-   cd nba-win-prediction
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the model:
-   ```bash
-   python run_model.py
-   ```
-
 ## Future Improvements
 - Implement weighted averages for team statistics (emphasizing recent games).
 - Perform feature pruning to improve model performance.
